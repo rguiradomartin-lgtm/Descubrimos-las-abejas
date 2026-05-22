@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest identifier="eXe-MANIFEST-mpg0vp60x6gn1"
+  xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+  xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+  xmlns:imsmd="http://www.imsglobal.org/xsd/imsmd_v1p2">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <adlcp:location>imslrm.xml</adlcp:location>
+  </metadata>
+  <organizations default="eXe-mpg0vp60x6gn1">
+    <organization identifier="eXe-mpg0vp60x6gn1" structure="hierarchical">
+      <title>Documento sin título</title>
+      <item identifier="ITEM-page-1779379837511-l9r36uqt6" identifierref="RES-page-1779379837511-l9r36uqt6" isvisible="true">
+        <title>Las abejas</title>
+      </item>
+      <item identifier="ITEM-4d573d4e-bc7c-493e-b493-36f6ae0e21be" identifierref="RES-4d573d4e-bc7c-493e-b493-36f6ae0e21be" isvisible="true">
+        <title>Presentación y descripción de la tarea</title>
+      </item>
+      <item identifier="ITEM-page-1779381620864-qi8izh8o9" identifierref="RES-page-1779381620864-qi8izh8o9" isvisible="true">
+        <title>Protección de datos personales </title>
+      </item>
+      <item identifier="ITEM-page-1779380148352-wksbhktix" identifierref="RES-page-1779380148352-wksbhktix" isvisible="true">
+        <title>Producto final </title>
+      </item>
+      <item identifier="ITEM-page-1779390064340-ny68jpp3e" identifierref="RES-page-1779390064340-ny68jpp3e" isvisible="true">
+        <title>Curación de contenidos</title>
+      </item>
+      <item identifier="ITEM-page-1779380297533-zll5gkjma" identifierref="RES-page-1779380297533-zll5gkjma" isvisible="true">
+        <title>Línea temporal</title>
+      </item>
+      <item identifier="ITEM-page-1779390682162-3mfjvzv8q" identifierref="RES-page-1779390682162-3mfjvzv8q" isvisible="true">
+        <title>Instrumentos de evaluación</title>
+      </item>
+      <item identifier="ITEM-page-1779390701789-aaqd1r55p" identifierref="RES-page-1779390701789-aaqd1r55p" isvisible="true">
+        <title>Criterios de evaluación</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="RES-page-1779379837511-l9r36uqt6" type="webcontent" adlcp:scormtype="sco" href="index.html">
+      <file href="index.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-4d573d4e-bc7c-493e-b493-36f6ae0e21be" type="webcontent" adlcp:scormtype="sco" href="html/presentacion-y-descripcion-de-la-tarea.html">
+      <file href="html/presentacion-y-descripcion-de-la-tarea.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-1779381620864-qi8izh8o9" type="webcontent" adlcp:scormtype="sco" href="html/proteccion-de-datos-personales-.html">
+      <file href="html/proteccion-de-datos-personales-.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-1779380148352-wksbhktix" type="webcontent" adlcp:scormtype="sco" href="html/producto-final-.html">
+      <file href="html/producto-final-.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-1779390064340-ny68jpp3e" type="webcontent" adlcp:scormtype="sco" href="html/curacion-de-contenidos.html">
+      <file href="html/curacion-de-contenidos.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-1779380297533-zll5gkjma" type="webcontent" adlcp:scormtype="sco" href="html/linea-temporal.html">
+      <file href="html/linea-temporal.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-1779390682162-3mfjvzv8q" type="webcontent" adlcp:scormtype="sco" href="html/instrumentos-de-evaluacion.html">
+      <file href="html/instrumentos-de-evaluacion.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-1779390701789-aaqd1r55p" type="webcontent" adlcp:scormtype="sco" href="html/criterios-de-evaluacion.html">
+      <file href="html/criterios-de-evaluacion.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="COMMON_FILES" type="webcontent" adlcp:scormtype="asset">
+      <file href="content.dtd"/>
+      <file href="content.xml"/>
+      <file href="content/css/base.css"/>
+      <file href="content/img/exe_powered_logo.png"/>
+      <file href="content/resources/7a1b428c-c63c-46dc-15e0-4d642fbaf00a.png"/>
+      <file href="content/resources/8d3a4d6f-877e-885e-6392-d2800b82793e.png"/>
+      <file href="content/resources/abeja.jpg"/>
+      <file href="content/resources/f888253c-7245-cb27-9352-47e3ad481904.jpg"/>
+      <file href="content/resources/padlet.png"/>
+      <file href="content/resources/symbaloo.png"/>
+      <file href="idevices/text/exequextsq.svg"/>
+      <file href="idevices/text/text.css"/>
+      <file href="idevices/text/text.html"/>
+      <file href="idevices/text/text.js"/>
+      <file href="imslrm.xml"/>
+      <file href="libs/SCOFunctions.js"/>
+      <file href="libs/SCORM_API_wrapper.js"/>
+      <file href="libs/bootstrap/bootstrap.bundle.min.js"/>
+      <file href="libs/bootstrap/bootstrap.bundle.min.js.map"/>
+      <file href="libs/bootstrap/bootstrap.min.css"/>
+      <file href="libs/bootstrap/bootstrap.min.css.map"/>
+      <file href="libs/common.js"/>
+      <file href="libs/common_i18n.js"/>
+      <file href="libs/exe_export.js"/>
+      <file href="libs/favicon.ico"/>
+      <file href="libs/jquery/jquery.min.js"/>
+      <file href="theme/config.xml"/>
+      <file href="theme/icons/activity.png"/>
+      <file href="theme/icons/agreement.png"/>
+      <file href="theme/icons/alert.png"/>
+      <file href="theme/icons/arts.png"/>
+      <file href="theme/icons/ask.png"/>
+      <file href="theme/icons/book.png"/>
+      <file href="theme/icons/calculate.png"/>
+      <file href="theme/icons/case.png"/>
+      <file href="theme/icons/chrono.png"/>
+      <file href="theme/icons/collaborative.png"/>
+      <file href="theme/icons/competencies.png"/>
+      <file href="theme/icons/diary.png"/>
+      <file href="theme/icons/diary_alt.png"/>
+      <file href="theme/icons/discuss.png"/>
+      <file href="theme/icons/download.png"/>
+      <file href="theme/icons/draw.png"/>
+      <file href="theme/icons/english.png"/>
+      <file href="theme/icons/experiment.png"/>
+      <file href="theme/icons/explore.png"/>
+      <file href="theme/icons/file.png"/>
+      <file href="theme/icons/gallery.png"/>
+      <file href="theme/icons/geography.png"/>
+      <file href="theme/icons/guide.png"/>
+      <file href="theme/icons/history.png"/>
+      <file href="theme/icons/info.png"/>
+      <file href="theme/icons/interactive.png"/>
+      <file href="theme/icons/letters.png"/>
+      <file href="theme/icons/listen.png"/>
+      <file href="theme/icons/math.png"/>
+      <file href="theme/icons/music.png"/>
+      <file href="theme/icons/nature.png"/>
+      <file href="theme/icons/objectives.png"/>
+      <file href="theme/icons/observe.png"/>
+      <file href="theme/icons/passport.png"/>
+      <file href="theme/icons/perform.png"/>
+      <file href="theme/icons/piece.png"/>
+      <file href="theme/icons/pieces.png"/>
+      <file href="theme/icons/play.png"/>
+      <file href="theme/icons/present.png"/>
+      <file href="theme/icons/reflection.png"/>
+      <file href="theme/icons/roadmap.png"/>
+      <file href="theme/icons/share.png"/>
+      <file href="theme/icons/sport.png"/>
+      <file href="theme/icons/start.png"/>
+      <file href="theme/icons/stop.png"/>
+      <file href="theme/icons/suitcase.png"/>
+      <file href="theme/icons/technology.png"/>
+      <file href="theme/icons/think.png"/>
+      <file href="theme/icons/think_alt.png"/>
+      <file href="theme/icons/video.png"/>
+      <file href="theme/img/icons.png"/>
+      <file href="theme/img/licenses.gif"/>
+      <file href="theme/screenshot.png"/>
+      <file href="theme/style.css"/>
+      <file href="theme/style.js"/>
+    </resource>
+  </resources>
+</manifest>

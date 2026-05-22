@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260521234826CKQGP6</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260521234826AQO2UM</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Documento sin título</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1779379408930</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-1779379837511-l9r36uqt6</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Las abejas</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Las abejas</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779379837511-l9r36uqt6</odePageId>
+      <odeBlockId>block-1779398720578-uffe6vhzd</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779379837511-l9r36uqt6</odePageId>
+          <odeBlockId>block-1779398720578-uffe6vhzd</odeBlockId>
+          <odeIdeviceId>idevice-1779398720576-erx1otplu</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h1 style="text-align: center;"><strong>"Descubrimos las abejas"</strong></h1>
+<p><strong><img src="asset://f888253c-7245-cb27-9352-47e3ad481904.jpg" width="715" height="536" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></strong></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779398720576-erx1otplu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h1 style=\"text-align: center;\"><strong>\"Descubrimos las abejas\"</strong></h1>\n<p><strong><img src=\"asset://f888253c-7245-cb27-9352-47e3ad481904.jpg\" width=\"715\" height=\"536\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></strong></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>4d573d4e-bc7c-493e-b493-36f6ae0e21be</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Presentación y descripción de la tarea</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación y descripción de la tarea</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Presentación y descripción de la tarea</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>4d573d4e-bc7c-493e-b493-36f6ae0e21be</odePageId>
+      <odeBlockId>block-1779380878814-jpzwq8xh0</odeBlockId>
+      <blockName>Presentación de la tarea</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>4d573d4e-bc7c-493e-b493-36f6ae0e21be</odePageId>
+          <odeBlockId>block-1779380878814-jpzwq8xh0</odeBlockId>
+          <odeIdeviceId>idevice-1779380878809-kvf0lm5rb</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Centro de interés o temática.</strong><br />El centro de interés de las abejas resulta muy motivador para el alumnado de Educación Infantil porque parte de un elemento cercano de la naturaleza que despierta su curiosidad y favorece el aprendizaje globalizado.</p>
+<p><strong>Nivel al que va dirigido.</strong><br />     La siguiente situación de aprendizaje va dirigida al primer nivel de Educación Infantil, es decir a niños y niñas de 3 años.</p>
+<p><strong>Temporalización aproximada</strong>.<br />      Tendrá una duración aproximada de dos meses y se llevará a cabo en el tercer trimestre, aprovechando que estos insectos juntos con otros se encuentran más visibles en nuestros patios. </p>
+<p><strong>Materia o materias implicadas.</strong><br />    Será una situación de aprendizaje  globalizada donde se trabajarán las distintas áreas de Educación Infantil: </p>
+<p>Área I: Crecimiento en armonía<br />Área II: Descubrimiento y exploración del entorno<br />Área III: Comunicación y representación de la realidad</p>
+<p><strong>Descripción general de lo que se pretende que el alumnado aprenda o trabaje.</strong><br />A través del centro de interés de las “abejas” aproximamos al alumnado a un aprendizaje competencial entre ellas:</p>
+<p>Con este proyecto se contribuye al desarrollo de:</p>
+<p>La competencia en comunicación lingüística mediante cuentos, conversaciones y canciones.<br />La competencia STEM a través de la observación de insectos, clasificación y experimentación.<br />La competencia digital usando recursos audiovisuales o actividades interactivas.<br />La competencia personal, social y de aprender a aprender dotando al niño de habilidades sociales que le permitan ganar autonomía y relacionarse con los demás y de herramientas que le permitan enfrentarse a las actividades de manera autónoma.<br />La competencia ciudadana  trabajando de forma cooperativa y respetuosa con el resto de compañeros. <br />La competencia en conciencia y expresión cultural mediante actividades plásticas, musicales y corporales.</p>
+<p><strong> Justificación de los elementos anteriores</strong><br /> A través de este tema, los niños y niñas pueden descubrir cómo viven las abejas, cuál es su función en el medio ambiente y la importancia que tienen para la vida y las plantas, permitiendo la adquisición de valores como el cuidado de la naturaleza, la cooperación y el respeto a los seres vivos.</p>
+<p>Además, este proyecto permite trabajar de forma integrada las diferentes áreas del currículo mediante experiencias manipulativas, sensoriales y lúdicas,.  Las abejas ofrecen múltiples posibilidades para desarrollar el lenguaje oral, la observación, el pensamiento lógico-matemático, la creatividad artística y la educación emocional y ambiental.</p>
+<p>Este centro de interés conecta especialmente con metodologías activas y significativas, ya que parte de los intereses infantiles y promueve el aprendizaje a través de la experimentación, el juego, la exploración y el descubrimiento, además permitirá integrar recursos digitales interactivos que enriquecerán la exploración y el descubrimiento del mundo de las abejas de una forma motivadora y significativa.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779380878809-kvf0lm5rb","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Centro de interés o temática.</strong><br />El centro de interés de las abejas resulta muy motivador para el alumnado de Educación Infantil porque parte de un elemento cercano de la naturaleza que despierta su curiosidad y favorece el aprendizaje globalizado.</p>\n<p><strong>Nivel al que va dirigido.</strong><br />     La siguiente situación de aprendizaje va dirigida al primer nivel de Educación Infantil, es decir a niños y niñas de 3 años.</p>\n<p><strong>Temporalización aproximada</strong>.<br />      Tendrá una duración aproximada de dos meses y se llevará a cabo en el tercer trimestre, aprovechando que estos insectos juntos con otros se encuentran más visibles en nuestros patios. </p>\n<p><strong>Materia o materias implicadas.</strong><br />    Será una situación de aprendizaje  globalizada donde se trabajarán las distintas áreas de Educación Infantil: </p>\n<p>Área I: Crecimiento en armonía<br />Área II: Descubrimiento y exploración del entorno<br />Área III: Comunicación y representación de la realidad</p>\n<p><strong>Descripción general de lo que se pretende que el alumnado aprenda o trabaje.</strong><br />A través del centro de interés de las “abejas” aproximamos al alumnado a un aprendizaje competencial entre ellas:</p>\n<p>Con este proyecto se contribuye al desarrollo de:</p>\n<p>La competencia en comunicación lingüística mediante cuentos, conversaciones y canciones.<br />La competencia STEM a través de la observación de insectos, clasificación y experimentación.<br />La competencia digital usando recursos audiovisuales o actividades interactivas.<br />La competencia personal, social y de aprender a aprender dotando al niño de habilidades sociales que le permitan ganar autonomía y relacionarse con los demás y de herramientas que le permitan enfrentarse a las actividades de manera autónoma.<br />La competencia ciudadana  trabajando de forma cooperativa y respetuosa con el resto de compañeros. <br />La competencia en conciencia y expresión cultural mediante actividades plásticas, musicales y corporales.</p>\n<p><strong> Justificación de los elementos anteriores</strong><br /> A través de este tema, los niños y niñas pueden descubrir cómo viven las abejas, cuál es su función en el medio ambiente y la importancia que tienen para la vida y las plantas, permitiendo la adquisición de valores como el cuidado de la naturaleza, la cooperación y el respeto a los seres vivos.</p>\n<p>Además, este proyecto permite trabajar de forma integrada las diferentes áreas del currículo mediante experiencias manipulativas, sensoriales y lúdicas,.  Las abejas ofrecen múltiples posibilidades para desarrollar el lenguaje oral, la observación, el pensamiento lógico-matemático, la creatividad artística y la educación emocional y ambiental.</p>\n<p>Este centro de interés conecta especialmente con metodologías activas y significativas, ya que parte de los intereses infantiles y promueve el aprendizaje a través de la experimentación, el juego, la exploración y el descubrimiento, además permitirá integrar recursos digitales interactivos que enriquecerán la exploración y el descubrimiento del mundo de las abejas de una forma motivadora y significativa.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779381620864-qi8izh8o9</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Protección de datos personales </pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos personales </value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779381620864-qi8izh8o9</odePageId>
+      <odeBlockId>block-1779399741889-tmalg6jpc</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779381620864-qi8izh8o9</odePageId>
+          <odeBlockId>block-1779399741889-tmalg6jpc</odeBlockId>
+          <odeIdeviceId>idevice-1779399741888-ajzs7k4gh</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Con el objetivo de fomentar un uso seguro y responsable de las tecnologías digitales desde edades tempranas, se presenta la siguiente infografía dirigida al alumnado y a las familias, en la que se recogen algunos de los principales riesgos de Internet y recomendaciones básicas de seguridad digital adaptadas a la infancia.</p>
+<p><a href="https://canva.link/55ubvfqyc5ab7ms" title="">https://canva.link/55ubvfqyc5ab7ms</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779399741888-ajzs7k4gh","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Con el objetivo de fomentar un uso seguro y responsable de las tecnologías digitales desde edades tempranas, se presenta la siguiente infografía dirigida al alumnado y a las familias, en la que se recogen algunos de los principales riesgos de Internet y recomendaciones básicas de seguridad digital adaptadas a la infancia.</p>\n<p><a href=\"https://canva.link/55ubvfqyc5ab7ms\" title=\"\">https://canva.link/55ubvfqyc5ab7ms</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779380148352-wksbhktix</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Producto final </pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final </value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779380148352-wksbhktix</odePageId>
+      <odeBlockId>block-1779389864760-gl5vtdwzc</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779380148352-wksbhktix</odePageId>
+          <odeBlockId>block-1779389864760-gl5vtdwzc</odeBlockId>
+          <odeIdeviceId>idevice-1779389864757-pyd2xiy1y</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Presentación de mi propuesta </strong><br />Para el desarrollo de mi Situación de Aprendizaje “Las abejas” en Educación Infantil, he seleccionado Canva como herramienta digital para la realización del producto final. A través de esta herramienta, el alumnado podrá participar en la creación de una infografía o presentación visual relacionada con los aprendizajes adquiridos sobre las abejas y su importancia en el medio ambiente.</p>
+<p><strong>Justificación de la herramienta seleccionada</strong><br />Tenemos que tener en cuenta, que al encontrarnos con alumnado de infantil el uso de estas herramientas digitales sería muy guiado y orientado en todo momento por la tutora o el profesorado de refuerzo dentro del aula.  Por ello he elegido la aplicación Canva,  porque considero que es una herramienta muy versátil,  visual y sencilla de utilizar en la etapa de Educación Infantil. Permite crear recursos atractivos adaptados a la edad del alumnado mediante imágenes, iconos, colores y elementos visuales motivadores.</p>
+<p>Además, considero especialmente interesante que el alumnado pueda participar de forma activa en la elaboración del producto final, aportando ideas, seleccionando imágenes o eligiendo elementos visuales, siempre de manera guiada por la docente.</p>
+<p><strong>Contexto del centro y del alumnado</strong><br />La propuesta está dirigida a un grupo de 1º de Educación Infantil (3 años). El centro dispone de recursos digitales como pantalla digital y tablets, lo que facilita porder llevar a cabo la presente propuesta. </p>
+<p><strong>Atención a la diversidad</strong><br />El uso de Canva permite adaptar las actividades a las necesidades y características del alumnado, ofreciendo múltiples posibilidades visuales y manipulativas, por ejemplo dependiendo del nivel de nuestro alumnado algunos podrán iniciarse en la escritura de palabras con el teclado, otros elegirán los colores o imágenes que adjuntar o poner voz a algunas explicaciones. Además a través de esta aplicación podemos llevar a cabo una secuenciación de los pasos a seguir para realizar nuestro mural/infografía de manera visual a través de imágenes, que permita al alumnado conocer los pasos a segur antes de usas la aplicación, favoreciendo el  el trabajo cooperativo,  la inclusión y la participación activa de todos los niños y niñas. </p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779389864757-pyd2xiy1y","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Presentación de mi propuesta </strong><br />Para el desarrollo de mi Situación de Aprendizaje “Las abejas” en Educación Infantil, he seleccionado Canva como herramienta digital para la realización del producto final. A través de esta herramienta, el alumnado podrá participar en la creación de una infografía o presentación visual relacionada con los aprendizajes adquiridos sobre las abejas y su importancia en el medio ambiente.</p>\n<p><strong>Justificación de la herramienta seleccionada</strong><br />Tenemos que tener en cuenta, que al encontrarnos con alumnado de infantil el uso de estas herramientas digitales sería muy guiado y orientado en todo momento por la tutora o el profesorado de refuerzo dentro del aula.  Por ello he elegido la aplicación Canva,  porque considero que es una herramienta muy versátil,  visual y sencilla de utilizar en la etapa de Educación Infantil. Permite crear recursos atractivos adaptados a la edad del alumnado mediante imágenes, iconos, colores y elementos visuales motivadores.</p>\n<p>Además, considero especialmente interesante que el alumnado pueda participar de forma activa en la elaboración del producto final, aportando ideas, seleccionando imágenes o eligiendo elementos visuales, siempre de manera guiada por la docente.</p>\n<p><strong>Contexto del centro y del alumnado</strong><br />La propuesta está dirigida a un grupo de 1º de Educación Infantil (3 años). El centro dispone de recursos digitales como pantalla digital y tablets, lo que facilita porder llevar a cabo la presente propuesta. </p>\n<p><strong>Atención a la diversidad</strong><br />El uso de Canva permite adaptar las actividades a las necesidades y características del alumnado, ofreciendo múltiples posibilidades visuales y manipulativas, por ejemplo dependiendo del nivel de nuestro alumnado algunos podrán iniciarse en la escritura de palabras con el teclado, otros elegirán los colores o imágenes que adjuntar o poner voz a algunas explicaciones. Además a través de esta aplicación podemos llevar a cabo una secuenciación de los pasos a seguir para realizar nuestro mural/infografía de manera visual a través de imágenes, que permita al alumnado conocer los pasos a segur antes de usas la aplicación, favoreciendo el  el trabajo cooperativo,  la inclusión y la participación activa de todos los niños y niñas. </p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779390064340-ny68jpp3e</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Curación de contenidos</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Curación de contenidos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779390064340-ny68jpp3e</odePageId>
+      <odeBlockId>block-1779399009592-av25904xf</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779390064340-ny68jpp3e</odePageId>
+          <odeBlockId>block-1779399009592-av25904xf</odeBlockId>
+          <odeIdeviceId>idevice-1779399009591-x30xr9j9m</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A continuación, se presenta la curación de contenidos planificada para esta situación de aprendizaje, organizada mediante diferentes recursos y enlaces digitales a través de Symbaloo y Padlet, con el fin de facilitar el acceso a materiales educativos seleccionados y adaptados al alumnado.</p>
+<p><a href="https://padlet.com/rguiradomartin/recursos-para-la-gestion-de-mi-aula-de-infantil-t7ycbuivv667mjsd" title="">https://padlet.com/rguiradomartin/recursos-para-la-gestion-de-mi-aula-de-infantil-t7ycbuivv667mjsd</a></p>
+<p><a href="https://www.symbaloo.com/shared/AAAABxd7MJ4AA42AShViJg==" title="">https://www.symbaloo.com/shared/AAAABxd7MJ4AA42AShViJg==</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779399009591-x30xr9j9m","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A continuación, se presenta la curación de contenidos planificada para esta situación de aprendizaje, organizada mediante diferentes recursos y enlaces digitales a través de Symbaloo y Padlet, con el fin de facilitar el acceso a materiales educativos seleccionados y adaptados al alumnado.</p>\n<p><a href=\"https://padlet.com/rguiradomartin/recursos-para-la-gestion-de-mi-aula-de-infantil-t7ycbuivv667mjsd\" title=\"\">https://padlet.com/rguiradomartin/recursos-para-la-gestion-de-mi-aula-de-infantil-t7ycbuivv667mjsd</a></p>\n<p><a href=\"https://www.symbaloo.com/shared/AAAABxd7MJ4AA42AShViJg==\" title=\"\">https://www.symbaloo.com/shared/AAAABxd7MJ4AA42AShViJg==</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779380297533-zll5gkjma</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Línea temporal</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Línea temporal</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779380297533-zll5gkjma</odePageId>
+      <odeBlockId>block-1779391099130-z20yikzl2</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779380297533-zll5gkjma</odePageId>
+          <odeBlockId>block-1779391099130-z20yikzl2</odeBlockId>
+          <odeIdeviceId>idevice-1779391099128-ves4c3die</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://canva.link/lsxgo7mcjyvg21n" title="Línea temporal ">https://canva.link/lsxgo7mcjyvg21n</a></p>
+<p> En este enlace se puede observar la línea temporal de mi tarea final, se presenta de manera visual para facilitar la comprensión de mi alumnado de infantil. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779391099128-ves4c3die","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://canva.link/lsxgo7mcjyvg21n\" title=\"Línea temporal \">https://canva.link/lsxgo7mcjyvg21n</a></p>\n<p> En este enlace se puede observar la línea temporal de mi tarea final, se presenta de manera visual para facilitar la comprensión de mi alumnado de infantil. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779390682162-3mfjvzv8q</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779390682162-3mfjvzv8q</odePageId>
+      <odeBlockId>block-1779391371816-2yc5wz92m</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779390682162-3mfjvzv8q</odePageId>
+          <odeBlockId>block-1779391371816-2yc5wz92m</odeBlockId>
+          <odeIdeviceId>idevice-1779391371813-w5huktvsb</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://docs.google.com/document/d/1f1z_uvCOWHoc8b7knr_ruWrkB6UeyjmMHK1mqrEhqwo/edit?usp=sharing" title="">https://docs.google.com/document/d/1f1z_uvCOWHoc8b7knr_ruWrkB6UeyjmMHK1mqrEhqwo/edit?usp=sharing</a></p>
+<p>Si pincháis en el enlace os lleva a un instrumento de evaluación muy utilizado en infantil, en este caso una lista de control y en el siguiente enlace os llevara a una diana de autoevaluación para comprobar el grado de ejecución del criterio que estamos evaluando: </p>
+<p><a href="https://canva.link/xxlszspjm0oubkr" title="">https://canva.link/xxlszspjm0oubkr</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779391371813-w5huktvsb","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://docs.google.com/document/d/1f1z_uvCOWHoc8b7knr_ruWrkB6UeyjmMHK1mqrEhqwo/edit?usp=sharing\" title=\"\">https://docs.google.com/document/d/1f1z_uvCOWHoc8b7knr_ruWrkB6UeyjmMHK1mqrEhqwo/edit?usp=sharing</a></p>\n<p>Si pincháis en el enlace os lleva a un instrumento de evaluación muy utilizado en infantil, en este caso una lista de control y en el siguiente enlace os llevara a una diana de autoevaluación para comprobar el grado de ejecución del criterio que estamos evaluando: </p>\n<p><a href=\"https://canva.link/xxlszspjm0oubkr\" title=\"\">https://canva.link/xxlszspjm0oubkr</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779390701789-aaqd1r55p</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Criterios de evaluación</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Criterios de evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779390701789-aaqd1r55p</odePageId>
+      <odeBlockId>block-1779391598492-zztbaxn6w</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779390701789-aaqd1r55p</odePageId>
+          <odeBlockId>block-1779391598492-zztbaxn6w</odeBlockId>
+          <odeIdeviceId>idevice-1779391598490-lvivy54oe</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En el siguiente documento encontramos los criterios de evaluación asociados a cada una de las actividades propuestas :</p>
+<p><a href="https://docs.google.com/document/d/1i1VWRRIwPZic1l5-TUwfpsfj6cIVbc6hM63BtpTcaec/edit?usp=sharing" title="">https://docs.google.com/document/d/1i1VWRRIwPZic1l5-TUwfpsfj6cIVbc6hM63BtpTcaec/edit?usp=sharing</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779391598490-lvivy54oe","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En el siguiente documento encontramos los criterios de evaluación asociados a cada una de las actividades propuestas :</p>\n<p><a href=\"https://docs.google.com/document/d/1i1VWRRIwPZic1l5-TUwfpsfj6cIVbc6hM63BtpTcaec/edit?usp=sharing\" title=\"\">https://docs.google.com/document/d/1i1VWRRIwPZic1l5-TUwfpsfj6cIVbc6hM63BtpTcaec/edit?usp=sharing</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
